@@ -32,7 +32,7 @@ const data = [
 const Testimonials = () => {
   return (
     <section id="testimonial">
-      <h5>Review from My Mentors</h5>
+      <h5>Review from My Friends</h5>
       <h2>Testimonials</h2>
 
       <Swiper
