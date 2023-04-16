@@ -17,13 +17,13 @@ import "swiper/css/pagination";
 const data = [
   {
     image: AVTR2,
-    name: "Dhanush Praveen",
+    name: "Deepa",
     review:
       "kesavan is the type of student who manages to give an output that's beyond expectations. And the good part, he doesn't intentionally do it to outperform but he simply enjoys doing his task and his complete investment and curiosity to learn makes him a extraordinary candidate to count on. Proud of say, he's one of my best students.",
   },
   {
     image: AVTR3,
-    name: "Deepak",
+    name: "Bala Murugan",
     review:
       "Mr.kesavan, proved himself to be a highly skilled and exceptionally talented student in the various areas of Master of Business Administration,He has the right attitude coupled with sharp quantitative skills and reasoning acumen and him passion will induce zeal to peers around him. His passion for excellence, boldness to achieve his objective and strong spirit to strive for perfection. and I am sure he will put forth all his effort into any task that he confronts.",
   },
