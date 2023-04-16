@@ -9,19 +9,19 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Leaf",
+    title: "Survey App",
     demo: "https://www.figma.com/proto/bCbUTmpixoDVgyl7d2n6XJ?node-id=0%3A1",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Leaf",
+    title: "Camera Rental App",
     demo: "https://www.figma.com/proto/wYbD8ApZllopqeXXaVrarr?node-id=0%3A1",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Leaf",
+    title: "Food And Grocery Booking App",
     demo: "https://www.figma.com/proto/5WydNSXKen4kLqZFhtkNJf?node-id=0%3A1",
   },
 ];
@@ -32,7 +32,7 @@ const Portfolio = () => {
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
       <div className="container portfolio__container">
-        {data.map(({ id, image, title, github, demo }) => {
+        {data.map(({ id, image, title, demo }) => {
           return (
             <article key={id} className="portfolio__item">
               <div className="portfolio-item-image">
